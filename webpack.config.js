@@ -31,8 +31,7 @@ const config = {
   },
   resolve: {
     extensions: [".ts"],
-  },
-  devtool:'source-map',
+  }
 };
 
 module.exports = () => {

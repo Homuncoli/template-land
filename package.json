@@ -1,7 +1,7 @@
 {
   "name": "paracelsus",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A template for character CODE for Adventure Land",
   "main": "index.js",
   "scripts": {
     "build": "webpack",
@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@homuncoli/ts-land": "^0.1.2",
     "@types/node": "^18.7.13",
     "@types/webpack": "^5.28.0",
     "@webpack-cli/generators": "^2.5.0",
